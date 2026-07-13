@@ -1,0 +1,23 @@
+# Local/dev state
+**/.shopify/
+**/.shopify.lock
+**/.env
+**/.env.*
+
+# Dependencies
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/build/
+**/coverage/
+
+# Generated function types
+**/generated/
+
+# Logs / OS
+*.log
+.DS_Store
+
+# Shopify CLI local named configs created by `shopify app dev --reset`
+**/shopify.app.*.toml
