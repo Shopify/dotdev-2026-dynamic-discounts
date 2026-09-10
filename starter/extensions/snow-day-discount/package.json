@@ -30,6 +30,6 @@
   },
   "devDependencies": {
     "@shopify/shopify-function-test-helpers": "^1.0.0",
-    "vitest": "^3.2.4"
+    "vitest": "^5.0.0"
   }
 }
