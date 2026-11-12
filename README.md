@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived and receives no updates or security fixes. This is historical material from the DotDev 2026 workshop; for current guidance, see [Shopify's Discount Function documentation](https://shopify.dev/docs/api/functions/latest/discount).
+
 # DotDev 2026: Building Dynamic, Multi-Class Discounts with Functions
 
 This repository contains the starter project for the DotDev 2026 advanced discounts workshop.
